@@ -11,6 +11,7 @@ import java.util.List;
 
 import com.bit.guestbook.vo.GuestbookVo;
 
+// GuestbookDao
 public class GuestbookDao {
 
 	
